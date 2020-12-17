@@ -1,4 +1,5 @@
 # hello-world
 
-Hi people
+Hi people.
+
 I like C and HTML
